@@ -1,4 +1,6 @@
 # 資安稽核實務2025
+- [資安署|資安演練與稽核](https://moda.gov.tw/ACS/operations/drill-and-audit/652)
+
 # 資安稽核實務2024
 - 資安稽核實務服務表單:已結束
 - 表單連結：已結束
@@ -17,6 +19,8 @@
 - 第8單元:資安稽核重點：管理面
 - 第9單元:資安稽核重點：技術面
 - 第10單元:資安稽核發現與結論
+  - [112年度資安稽核作業共同發現事項及建議](https://isms.thu.edu.tw/upload/isms/news_upload/112%E5%B9%B4%E5%BA%A6%E8%B3%87%E5%AE%89%E7%A8%BD%E6%A0%B8%E4%BD%9C%E6%A5%AD%E5%85%B1%E5%90%8C%E7%99%BC%E7%8F%BE%E4%BA%8B%E9%A0%85%E5%8F%8A%E5%BB%BA%E8%AD%B0.pdf)
+
 
 # 重要參考資料:資通安全維護計畫
 - 資通安全維護計畫
@@ -59,9 +63,8 @@
 - [九、資通安全事件通報應變及情資評估因應](技術面_9.md)
 
 
-# 重要資料
 
-- [112年度資安稽核作業共同發現事項及建議](https://isms.thu.edu.tw/upload/isms/news_upload/112%E5%B9%B4%E5%BA%A6%E8%B3%87%E5%AE%89%E7%A8%BD%E6%A0%B8%E4%BD%9C%E6%A5%AD%E5%85%B1%E5%90%8C%E7%99%BC%E7%8F%BE%E4%BA%8B%E9%A0%85%E5%8F%8A%E5%BB%BA%E8%AD%B0.pdf)
-- [資安署|資安演練與稽核](https://moda.gov.tw/ACS/operations/drill-and-audit/652)
+
+
 
 
