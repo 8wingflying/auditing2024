@@ -7,16 +7,18 @@
 - 第1單元:課程內容簡介
 - [第2單元:資通安全管理法及其子法相關法遵規定](UNIT2.md)
 - 第3單元:資安稽核計畫撰寫
+  - [114 年資通安全稽核計畫](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/tyJUhBqgSwg6vVR) 
 - 第4單元:資安稽核整備作業
 - 第5單元:資安稽核啟始會議
 - 第6單元:資安稽核軌跡設計與抽樣檢視技巧
 - 第7單元:資安稽核重點：策略面
+  - [計畫附件1-1_114年資通安全實地稽核項目檢核表_適用公務機關](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/jamt6g3JOvWp34o)
+  - [計畫附件1-2_114年資通安全實地稽核項目檢核表_適用特定非公務機關](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/x8LbtLhx7yOOw8r) 
 - 第8單元:資安稽核重點：管理面
 - 第9單元:資安稽核重點：技術面
 - 第10單元:資安稽核發現與結論
 
-# 重要參考資料:資通安全實地稽核項目檢核表
-- [資通安全實地稽核項目檢核表(適用公務機關)](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/aTKJ2Lhdj59FPT6)
+# 重要參考資料:資通安全維護計畫
 - 資通安全維護計畫
   - [資通安全維護計畫範本 ](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/IgT9WPNZENcVgsH)
   - [資通安全維護計畫範本參考附件](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/noYwzGxV8r7LFp4)
@@ -58,11 +60,7 @@
 
 
 # 重要資料
-- [範本文件](https://moda.gov.tw/ACS/laws/documents/680)
-  - [資通安全維護計畫範本 ](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/IgT9WPNZENcVgsH)
-  - [資通安全維護計畫範本參考附件](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/noYwzGxV8r7LFp4)
-- [113 年資通安全稽核計畫](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/JnZyx6bZUGAOSuZ)
-- [資通安全實地稽核項目檢核表(適用公務機關)](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/aTKJ2Lhdj59FPT6)
+
 - [112年度資安稽核作業共同發現事項及建議](https://isms.thu.edu.tw/upload/isms/news_upload/112%E5%B9%B4%E5%BA%A6%E8%B3%87%E5%AE%89%E7%A8%BD%E6%A0%B8%E4%BD%9C%E6%A5%AD%E5%85%B1%E5%90%8C%E7%99%BC%E7%8F%BE%E4%BA%8B%E9%A0%85%E5%8F%8A%E5%BB%BA%E8%AD%B0.pdf)
 - [資安署|資安演練與稽核](https://moda.gov.tw/ACS/operations/drill-and-audit/652)
 
